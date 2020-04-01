@@ -10,7 +10,6 @@ setup(
     description="A small tool for python command and sub command.",
     license='MIT',
     classifiers=[
-        "Development Status :: Development",
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python",
         "Programming Language :: Python :: 3",

@@ -5,9 +5,7 @@ A simple command tool
 ### Install
 
 ```shell script
-git clone https://github.com/zhd785576549/py-command
-cd py-command
-python setup.py install
+pip install py_command
 ```
 
 ### Sample
