@@ -6,6 +6,7 @@ setup(
     author="SnoopyBoy",
     author_email="785576549@qq.com",
     packages=find_packages(),
+    version="1.0.0",
     description="A small tool for python command and sub command.",
     license='MIT',
     classifiers=[
