@@ -5,7 +5,7 @@ A simple command tool
 ### Install
 
 ```shell script
-pip install py_command
+pip install py-command
 ```
 
 ### Sample
